@@ -1,5 +1,6 @@
 
-Template Design Pattern: (Having a template method is mandatory)
+## Template Design Pattern: (Having a template method is mandatory) 
+Behavioural Design Pattern
 This Pattern has a method called Template method which is made Public final and it is implemented
 in the Abstract class.
 This method  defines the steps to execute an algorithm and it can provide default implementation

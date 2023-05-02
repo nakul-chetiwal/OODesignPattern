@@ -1,5 +1,9 @@
-package com.learn.designpattern.TemplateMethodDesignPattern;
+package com.learn.designpattern.behaviouralDP.TemplateMethodDesignPattern;
 
+import com.learn.designpattern.behaviouralDP.TemplateMethodDesignPattern.CarTemplate;
+import com.learn.designpattern.behaviouralDP.TemplateMethodDesignPattern.SUV;
+import com.learn.designpattern.behaviouralDP.TemplateMethodDesignPattern.Sedan;
+import com.learn.designpattern.behaviouralDP.TemplateMethodDesignPattern.SuperCar;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

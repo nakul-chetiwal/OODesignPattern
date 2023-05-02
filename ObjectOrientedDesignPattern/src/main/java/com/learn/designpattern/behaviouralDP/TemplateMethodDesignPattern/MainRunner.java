@@ -1,4 +1,4 @@
-package com.learn.designpattern.TemplateMethodDesignPattern;
+package com.learn.designpattern.behaviouralDP.TemplateMethodDesignPattern;
 
 public class MainRunner {
     public static void main(String[] args){

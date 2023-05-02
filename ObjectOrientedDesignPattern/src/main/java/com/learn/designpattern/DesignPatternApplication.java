@@ -1,9 +1,5 @@
 package com.learn.designpattern;
 
-import com.learn.designpattern.TemplateMethodDesignPattern.CarTemplate;
-import com.learn.designpattern.TemplateMethodDesignPattern.SUV;
-import com.learn.designpattern.TemplateMethodDesignPattern.Sedan;
-import com.learn.designpattern.TemplateMethodDesignPattern.SuperCar;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

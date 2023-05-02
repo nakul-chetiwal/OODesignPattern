@@ -1,4 +1,4 @@
-package com.learn.designpattern.TemplateMethodDesignPattern;
+package com.learn.designpattern.behaviouralDP.TemplateMethodDesignPattern;
 
 public class SuperCar extends CarTemplate{
     @Override
